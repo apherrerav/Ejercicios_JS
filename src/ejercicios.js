@@ -143,6 +143,7 @@ function elevarAlCuadrado(num) {
 
 // Test 20
 function elevarAlCubo(num) {
+	return num**3;
 	// Devuelve el valor de "num" elevado al cubo
 	// Tu código:
 }
